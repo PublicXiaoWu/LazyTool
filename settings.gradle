@@ -1,0 +1,3 @@
+include ':lazytools'
+include ':app'
+rootProject.name = "LazyTools"
